@@ -1,4 +1,4 @@
-//TODO : Big O 개념
+// Big O 개념
 function addUpTo(n) {
     let total = 0;
     for(let i= 1; i <= n; i++) {
