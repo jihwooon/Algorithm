@@ -21,3 +21,12 @@ console.log(`Time Elapsed: ${(t2 - t1) / 1000} seconds.`)
  * The same machine will record different times!
  * For fas algorithms, speed measurements may not be precise enough? 
 */
+
+function addUpto(n) {
+    for (let i=0; i <= n; i++) {
+        total += i;
+    }
+    return total;
+}
+console.log(addUpTo(10));
+
