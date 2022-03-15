@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ios_algorithem" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kotilin_algorithem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_algorithm" vcs="Git" />
   </component>
 </project>
